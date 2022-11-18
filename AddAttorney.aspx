@@ -7,6 +7,7 @@
         }
     </style>
 
+
     <script src="Scripts/jquery-1.8.2.min.js"></script>
 
     <script src="https://cdn.rawgit.com/igorescobar/jQuery-Mask-Plugin/master/src/jquery.mask.js"></script>
