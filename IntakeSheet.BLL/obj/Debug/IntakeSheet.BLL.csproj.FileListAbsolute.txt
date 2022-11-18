@@ -1,0 +1,79 @@
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.dll
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.pdb
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.dll
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.dll
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.pdb
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.pdb
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.dll
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.pdb
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.dll
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.pdb
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.dll
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.dll
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.pdb
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.pdb
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.csprojResolveAssemblyReference.cache
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.dll
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.pdb
+G:\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.csprojResolveAssemblyReference.cache
+G:\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.dll
+G:\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.pdb
+G:\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.dll
+G:\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.dll
+G:\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.pdb
+G:\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.pdb
+G:\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.dll
+G:\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.pdb
+E:\Thanu\Source\InTakeSheet Source Feb 25\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.dll
+E:\Thanu\Source\InTakeSheet Source Feb 25\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.pdb
+E:\Thanu\Source\InTakeSheet Source Feb 25\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.dll
+E:\Thanu\Source\InTakeSheet Source Feb 25\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.dll
+E:\Thanu\Source\InTakeSheet Source Feb 25\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.pdb
+E:\Thanu\Source\InTakeSheet Source Feb 25\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.pdb
+E:\Thanu\Source\InTakeSheet Source Feb 25\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.csprojResolveAssemblyReference.cache
+E:\Thanu\Source\InTakeSheet Source Feb 25\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.dll
+E:\Thanu\Source\InTakeSheet Source Feb 25\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.pdb
+E:\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.dll
+E:\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.pdb
+E:\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.dll
+E:\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.dll
+E:\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.pdb
+E:\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.pdb
+E:\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.csprojResolveAssemblyReference.cache
+E:\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.dll
+E:\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.pdb
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.dll
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.pdb
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.dll
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.dll
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\mscorlib.dll
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.pdb
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.pdb
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\normidna.nlp
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\normnfc.nlp
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\normnfd.nlp
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\normnfkc.nlp
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\bin\Debug\normnfkd.nlp
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.csprojResolveAssemblyReference.cache
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.dll
+F:\thanucodes\XdANU\XdANU\InTakeSheet Source Feb 09\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.pdb
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.dll
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.pdb
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.dll
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.dll
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.pdb
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.pdb
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.csprojResolveAssemblyReference.cache
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.dll
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.pdb
+C:\Users\admin\Desktop\Compare uat and live\live\ePainTrax_NV\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Compare uat and live\live\ePainTrax_NV\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.dll
+G:\arum\03262018\03262018\ePainTrax_NV\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.dll
+G:\arum\03262018\03262018\ePainTrax_NV\IntakeSheet.BLL\bin\Debug\IntakeSheet.BLL.pdb
+G:\arum\03262018\03262018\ePainTrax_NV\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.dll
+G:\arum\03262018\03262018\ePainTrax_NV\IntakeSheet.BLL\bin\Debug\IntakeSheet.Entity.dll
+G:\arum\03262018\03262018\ePainTrax_NV\IntakeSheet.BLL\bin\Debug\IntakeSheet.DAL.pdb
+G:\arum\03262018\03262018\ePainTrax_NV\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.csprojResolveAssemblyReference.cache
+G:\arum\03262018\03262018\ePainTrax_NV\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.dll
+G:\arum\03262018\03262018\ePainTrax_NV\IntakeSheet.BLL\obj\Debug\IntakeSheet.BLL.pdb

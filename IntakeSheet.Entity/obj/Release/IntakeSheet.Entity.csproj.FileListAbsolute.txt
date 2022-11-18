@@ -1,0 +1,15 @@
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.Entity\bin\Release\IntakeSheet.Entity.dll
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.Entity\bin\Release\IntakeSheet.Entity.pdb
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.Entity\obj\Release\IntakeSheet.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.Entity\obj\Release\IntakeSheet.Entity.dll
+C:\Users\Abhinaya\Desktop\IntakeSheet\IntakeSheet.Entity\obj\Release\IntakeSheet.Entity.pdb
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.Entity\bin\Release\IntakeSheet.Entity.dll
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.Entity\bin\Release\IntakeSheet.Entity.pdb
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.Entity\obj\Release\IntakeSheet.Entity.csprojResolveAssemblyReference.cache
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.Entity\obj\Release\IntakeSheet.Entity.dll
+G:\Repositries\InTakeSheet\IntakeSheet\IntakeSheet.Entity\obj\Release\IntakeSheet.Entity.pdb
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.Entity\bin\Release\IntakeSheet.Entity.dll
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.Entity\bin\Release\IntakeSheet.Entity.pdb
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.Entity\obj\Release\IntakeSheet.Entity.csprojResolveAssemblyReference.cache
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.Entity\obj\Release\IntakeSheet.Entity.dll
+D:\Thanu\EPT\MedicalMilesStone\IntakeSheet\IntakeSheet.Entity\obj\Release\IntakeSheet.Entity.pdb

@@ -1,0 +1,18 @@
+CERVICAL
+CESI - N-D3ai
+CPD - N-E2bv
+CMBB - N-D3ai
+CRFA - N-D4
+
+
+LUMBAR
+LESI - B-D6d
+LEndDis - B-E1aii
+LPDA - B-E1aiv
+LMBB - B-D6d
+LRFA - B-D12a
+
+THORACIC
+TESI - B-D6d
+TMBB - B-D6d
+TRFA - B-D6f

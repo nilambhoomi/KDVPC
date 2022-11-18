@@ -1,0 +1,135 @@
+﻿<div class="row">
+
+
+
+
+
+    <span Style="float: left;"><b>Range of motion of the cervical spine:</b></span>
+    <br />
+    <label class="inline" id="lblpetitle1">
+        The patient is
+    </label>
+
+    <section class="dropdown">
+        <input type="text" id="txtpedd1" onchange="txtMe(this)" value="positive" />
+        <select onchange="this.previousElementSibling.value = this.value; this.previousElementSibling.focus();selectVal('txtpedd1', this.value)" id="ddlWorse3"><option></option><option>positive</option><option>negative</option></select>
+    </section>
+    <label class="inline" id="lblpetitle2">
+        for cervical spasm and tenderness.
+    </label>
+
+    <input type="checkbox" id="chkneckrom" />
+
+    <label class="inline">
+        <section class="dropdown">
+            <input type="text" id="txtneckdecreased" onchange="txtMe(this)" value="with decreased range of motion and pain" />
+            <select onchange="this.previousElementSibling.value = this.value; this.previousElementSibling.focus();selectVal('txtneckdecreased', this.value)" id="ddldecreased">
+                <option>
+                    with decreased range of motion and pain
+                </option>
+            </select>
+
+        </section>
+        .
+    </label>
+
+  
+</div>
+
+
+
+<section class="row">
+    <section class="col-md-3">
+        <span class="control-label">Notes</span>
+    </section>
+    <section class="col-md-9" style="margin-top: 5px">
+        <textarea id="txtFreeForm" Style="width:700px;height:100px" onchange="txtAreaMe(this)"></textarea>
+        <button type="button" id="start_button2" onclick="startButton2(event)">
+            <img src="images/mic.gif" alt="start" />
+        </button>
+        <div style="display: none"><span class="final" id="final_span1"></span><span class="interim" id="interim_span1"></span></div>
+    </section>
+</section>
+
+
+
+
+
+<style>
+    .dropdown {
+        position: relative;
+        width: 200px;
+        display: inline-block;
+    }
+
+        .dropdown select {
+            width: 100%;
+        }
+
+        .dropdown > * {
+            box-sizing: border-box;
+            height: 2em;
+        }
+
+        .dropdown select {
+        }
+
+        .dropdown input {
+            position: absolute;
+            width: calc(100% - 20px);
+        }
+</style>
+<script type="text/javascript">
+
+    function getNeckPE() {
+
+        var str1 = "", str2 = "", strmain = "";
+
+        if ($("#chkneckrom").prop("checked")) {
+            str1 = $("#txtneckdecreased").val();
+        }
+
+      
+        strmain = $("#lblpetitle1").text() + ' ' + $('#txtpedd1').val() + ' ' + $('#lblpetitle2').text();
+
+        strmain = strmain + str1;
+
+        strmain = strmain.replace(/(\r\n|\n|\r)/gm, "").replace(/\s\s+/g, ' ');
+
+        $("#ctl00_ContentPlaceHolder1_hdPEHTMLValue").val(strmain);
+
+    }
+
+    function txtMe(txt) {
+        var val = $(txt).val();
+        $(txt).attr('value', val);
+    }
+
+    function selectVal(txtid, val) {
+
+        $("#" + txtid).attr('value', val);
+    }
+
+    function txtAreaMe(txt) {
+        debugger
+        var val = $(txt).val();
+        $(txt).text(val);
+    }
+
+    function startButton2(event) {
+        controlname = "#txtFreeForm";
+        if (recognizing) {
+            recognition.stop();
+            return;
+        }
+        final_transcript = '';
+        recognition.lang = 'en';
+        recognition.start();
+        ignore_onend = false;
+        final_span1.innerHTML = '';
+        interim_span1.innerHTML = '';
+
+        start_timestamp = event.timeStamp;
+    }
+
+</script>
